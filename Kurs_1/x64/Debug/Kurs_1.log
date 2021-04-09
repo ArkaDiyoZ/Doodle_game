@@ -1,0 +1,9 @@
+﻿  Doodle.cpp
+c:\projects\kurs_1\kurs_1\game.h(2): fatal error C1083: Не удается открыть файл включение: SDL.h: No such file or directory,
+  functions.cpp
+c:\projects\kurs_1\kurs_1\functions.h(4): fatal error C1083: Не удается открыть файл включение: SDL.h: No such file or directory,
+  main.cpp
+c:\projects\kurs_1\kurs_1\main.cpp(1): fatal error C1083: Не удается открыть файл включение: SDL.h: No such file or directory,
+  menu.cpp
+c:\projects\kurs_1\kurs_1\game.h(2): fatal error C1083: Не удается открыть файл включение: SDL.h: No such file or directory,
+  Создание кода...
